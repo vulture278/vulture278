@@ -11,7 +11,7 @@
 
 ⚡ Fun fact: I once thought "Hello World!" was the only code I'd ever write. Now look at me—still writing "Hello World!" but with way cooler projects. 😊
 
-Connect with me
+## Connect with me at
 <p align="left">
   <a href="https://www.linkedin.com/in/aman-r-1676751b6" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
