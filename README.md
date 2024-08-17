@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aman Raj</h1>
 <h3 align="center">A passionate Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWM3YzdkNTg2MjQ5MjVjZDE2MjAxMGZmZWIzODlkMjFhODUxODc0OSZjdD1z/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWkwanJwdjZ2NTM0OXQ1dGQ1cG1lZThpNDhtYjJucWxnb29xZzdjdiZjdD1z/13HgwGsXF0aiGY/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vulture&label=Profile%20views&color=0e75b6&style=flat" alt="vulture" /> </p>
 
 🏫 I’m currently a `Pre-Final Year` student at [IIITDM JABALPUR](https://iiitdmj.ac.in/)
