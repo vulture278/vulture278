@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWkwanJwdjZ2NTM0OXQ1dGQ1cG1lZThpNDhtYjJucWxnb29xZzdjdiZjdD1z/13HgwGsXF0aiGY/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vulture&label=Profile%20views&color=0e75b6&style=flat" alt="vulture" /> </p>
 
-🏫 I’m currently a `Pre-Final Year` student at [IIITDM JABALPUR](https://iiitdmj.ac.in/)
+🏫 I’m currently a `Pre-Final Year` student at [IIITDM JABALPUR](https://www.iiitdmj.ac.in/)
 
 🌱 I’m currently learning `React Native`
 
